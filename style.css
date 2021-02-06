@@ -1,0 +1,36 @@
+.fcbk-icon{
+    width: 20px;
+    height: 20px;
+}
+.store-icon{
+    width: 140px;
+    height: 50px;
+}
+h2{
+    font-family: 'PT Sans', sans-serif;
+}
+hr{
+    height: 5px;
+    width: 100px;
+    background-color: gray;
+    opacity: 0.5;
+}
+input{
+    border: none;
+    width: 60%;
+}
+.footerinsta{
+    color: gray;
+    font-size: 17px;
+}
+.imgsob{
+    position: relative;
+    bottom: 520px;
+    left: 150px;
+}
+.btn-primary{
+    opacity: 0.5;
+}
+.btn-primary:hover{
+    opacity: 0.9;
+}
